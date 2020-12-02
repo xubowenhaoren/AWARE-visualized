@@ -1,0 +1,5 @@
+geopy >= 1.21.0
+matplotlib >= 3.1.1
+pandas >= 0.25.1
+Flask >= 1.1.1
+plotly == 4.4.1
